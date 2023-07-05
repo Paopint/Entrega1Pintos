@@ -1,0 +1,8 @@
+.CartWidget{
+  background-color:bisque;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  text-align: center;
+  align-items: baseline;
+}

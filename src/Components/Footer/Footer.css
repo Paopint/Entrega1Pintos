@@ -1,0 +1,28 @@
+.Footer {
+
+        border-color: black;
+        border: 1px, solid; 
+        background-color: bisque;
+        display: grid;     
+        /* flex-flow: row wrap;  
+              
+        padding: 5px;        
+        position: absolute;
+        position: absolute;
+      
+        margin-top: auto;  */
+        bottom: 0;
+        width: 100%; 
+        align-content: end; 
+     
+        
+  
+        
+       
+        
+
+
+
+}
+
+

@@ -1,0 +1,12 @@
+.Navbar{
+  border-color: black;
+  border: 1px, solid;
+  background-color: bisque;
+  display:flex;  
+  flex-flow: row wrap;
+  justify-content: space-around;
+  padding: 1em 0;
+  overflow: hidden; 
+  
+}
+
